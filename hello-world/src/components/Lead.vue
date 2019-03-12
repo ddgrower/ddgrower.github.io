@@ -2,6 +2,9 @@
   <div class="lead">
     Lead: {{title}} {{date}}<hr/>
     Details | Comments | Vetters
+    <mdc-list>
+      <mdc-list-item>Single-line item</mdc-list-item>
+    </mdc-list>
   </div>
 </template>
 
